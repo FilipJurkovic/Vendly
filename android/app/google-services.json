@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "91918478989",
+    "project_id": "vendlyio",
+    "storage_bucket": "vendlyio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91918478989:android:c43cfe314c3d9eda6bbcc4",
+        "android_client_info": {
+          "package_name": "io.vendly.vendly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91918478989-8oig3afnn7uc3sva48aup2gmah9jflin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRnXWxWFta367QK9uwtPcctw163NlvNDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91918478989-8oig3afnn7uc3sva48aup2gmah9jflin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

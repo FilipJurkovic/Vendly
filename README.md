@@ -1,4 +1,4 @@
-# vendly
+# Vendly
 
 Identity verification in vending machines
 
